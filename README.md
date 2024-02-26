@@ -26,7 +26,7 @@
 ---
 ### Research Experience
 
-- Kyung-Hee University AIMS LAB UnderGraduate Researcher: Reinforcement Learning (24.01 ~)
+- Kyung-Hee University AIMS LAB Undergraduate Researcher: Reinforcement Learning (24.01 ~)
 
 ---
 ### Work Experience
