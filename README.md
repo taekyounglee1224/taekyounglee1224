@@ -47,7 +47,7 @@
 ---
 ### Work Experience 📝
 
-- BITAmin Academy 12th Generation (23.08 ~ 24.06) <a href = "https://github.com/taekyounglee1224/Bitamin/tree/main">View!</a>
+- BITAmin Academy 12th Generation (23.08 ~ 24.06) 
 - Kyung-Hee University AIMS LAB UnderGraduate Researcher (24.01 ~ )
 
   
