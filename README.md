@@ -11,7 +11,7 @@
 
 - Linear Algebra, Statistics, Optimization Theory
 - Financial Engineering, Financial Data Analysis, Data Science
-- Machine Learning, Deep Learning, Reinforcement Learning
+- Machine Learning, Deep Learning, Reinforcement Learning, Time Series Analysis
 
 ---
 
