@@ -32,6 +32,12 @@
 - BITAmin 머신러닝/딥러닝 학습 (23.09 ~ 24.01) <a href = "https://github.com/taekyounglee1224/Bitamin">View!</a>
 
 ---
+### Awards
+
+- 경기도 자율주행센터: 빅데이터를 활용한 AI 모델 경진대회 1회 은상
+- Kyung-Hee University 2023 추계 학술제 장려상
+  
+---
 ### Research Experience
 
 - Kyung-Hee University AIMS LAB Undergraduate Researcher: Reinforcement Learning (24.01 ~)
