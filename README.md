@@ -8,7 +8,7 @@
 
 ---
 
-### Interests 📗
+### Interests ❓
 
 - Linear Algebra, Statistics, Optimization Theory
 - Financial Engineering, Financial Data Analysis, Data Science
@@ -16,7 +16,7 @@
 
 ---
 
-### Projects 📚
+### Projects 📘
 
 - 데이터 분석 및 시각화 실습 <a href = "https://github.com/taekyounglee1224/Data-Science/tree/main">View!</a>
 - OOP Term Project: 1. 지뢰찾기 게임, 2. 수강신청 시스템, 3. 여행 예약 시스템 (23.05 ~ 23.06) <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/OOP%20(CSE103)/Projects">View!</a>
