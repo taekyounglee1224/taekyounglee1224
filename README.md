@@ -2,7 +2,7 @@
 
 - Name: Lee Tae Kyoung
 - Born in 24 December, 2001
-- My Address: leetk1224@naver.com, leetk1224@khu.ac.kr
+- My Address: leetk1224@naver.com, leetk011224@gmail.com, leetk1224@khu.ac.kr
 - Undergraduate Student in Kyung-Hee University, Major on IE and SWCON (22.03 ~)
 - My Additional Website: https://taekyounglee1224.tistory.com/
 
