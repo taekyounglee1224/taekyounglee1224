@@ -23,7 +23,7 @@
 - Web/Python Programming Term Project: 온라인 쇼핑 판매 내역과 경제 지수 간의 관계 (23.11) <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/Web%20Python%20Programming%20(SWCON104)/Projects">View!</a>
 - 경기도 자율주행센터: 빅데이터를 활용한 AI 모델 경진대회 (CCTV 2D 이미지 객체 검지) (23.10 ~ 23.12) <a href = "https://github.com/taekyounglee1224/KyungGI-Self-Driving-Car-AI-Contest">View!</a>
 - 뉴스 토픽과 감성 분석을 활용한 Netflix 종가 예측 (24.01 ~ 24.02) <a href = "https://github.com/taekyounglee1224/Bitamin/tree/main/DL%20Session/Projects/Stock%20Price%20Prediction%20with%20News%20Topic">View!</a>
-- 코로나 팬데믹이 국내 경제시장에 미치는 영향 - COVID-19 외생변수와 국내 ETF 가격 변동 추이(24.03 ~ ) <a href = "https://github.com/taekyounglee1224/Finance-Project">View!</a>
+- 코로나 팬데믹이 국내 경제시장에 미치는 영향 - COVID-19 외생변수와 국내 ETF 가격 변동 추이 (24.03 ~ ) <a href = "https://github.com/taekyounglee1224/Finance-Project">View!</a>
 
 ---
 ### Simple Code Practices 💻
