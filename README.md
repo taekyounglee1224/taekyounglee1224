@@ -32,7 +32,7 @@
 - 코딩 연습문제 풀이 <a href = "https://github.com/taekyounglee1224/Python-Works/tree/main/coding%20practice">View!</a>
 - C++ 객체지향 프로그래밍(CSE103) LAB 실습 (23.03 ~ 23.06) <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/OOP%20(CSE103)/Lab%20Excercises">View!</a>
 - 기계학습(SWCON253) LAB 실습 (23.09 ~ 23.12) <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/Machine%20Learning%20(SWCON253)">View!</a>
-- BITAmin 머신러닝/딥러닝 학습 (23.09 ~ 24.01) <a href = "https://github.com/taekyounglee1224/Bitamin">View!</a>
+- BITAmin 머신러닝 학습 (23.09 ~ 24.01) <a href = "https://github.com/taekyounglee1224/Bitamin">View!</a>
 - 강화학습 알고리즘 구현 (24.02 ~ ) <a href = "https://github.com/taekyounglee1224/Reinforcement-Learning/tree/main/Algorithms">View!</a>
 - 경영과학 예제 실습 (24.03 ~ 24.06) <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/Operations%20Research%20(IE301)">View!</a>
 - 추천시스템 기초 실습(도서: Python을 활용한 개인화 추천시스템) (24.05) <a href = "https://github.com/taekyounglee1224/Personalized-Recommendation-System-using-Python/tree/main/codes">View!</a>
