@@ -27,7 +27,7 @@
 - 시계열 분석과 강화학습을 이용한 국내 주식 트레이딩 (24.03 ~ 24.06) <a href = "https://github.com/skier-song9/bitamin1213_trading">View!</a>
 
 ---
-### Simple Code Practices 💻
+### Self - Studies 💻
 
 - 코딩 연습문제 풀이 <a href = "https://github.com/taekyounglee1224/Python-Works/tree/main/coding%20practice">View!</a>
 - C++ 객체지향 프로그래밍(CSE103) LAB 실습 (23.03 ~ 23.06) <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/OOP%20(CSE103)/Lab%20Excercises">View!</a>
