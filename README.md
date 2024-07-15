@@ -29,7 +29,6 @@
 ---
 ### Self - Studies 💻
 
-- 코딩 연습문제 풀이 <a href = "https://github.com/taekyounglee1224/Python-Works/tree/main/coding%20practice">View!</a>
 - C++ 객체지향 프로그래밍(CSE103) LAB 실습 (23.03 ~ 23.06) <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/OOP%20(CSE103)/Lab%20Excercises">View!</a>
 - 기계학습(SWCON253) LAB 실습 (23.09 ~ 23.12) <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/Machine%20Learning%20(SWCON253)">View!</a>
 - BITAmin 머신러닝 학습 (23.09 ~ 24.01) <a href = "https://github.com/taekyounglee1224/Bitamin">View!</a>
