@@ -35,7 +35,7 @@
 - 강화학습 알고리즘 구현 (24.02 ~ ) <a href = "https://github.com/taekyounglee1224/Reinforcement-Learning/tree/main/Algorithms">View!</a>
 - 경영과학 예제 실습 (24.03 ~ 24.06) <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/Operations%20Research%20(IE301)">View!</a>
 - 추천시스템 기초 실습(도서: Python을 활용한 개인화 추천시스템) (24.05) <a href = "https://github.com/taekyounglee1224/Personalized-Recommendation-System-using-Python/tree/main/codes">View!</a>
-- 자료구조 및 알고리즘 학습 (24.07 ~ ) 
+- 자료구조 및 알고리즘 학습 (24.07 ~ ) <a href = "https://github.com/taekyounglee1224/DS_ALGO">View!</a>
 
 ---
 ### Awards 🏆
