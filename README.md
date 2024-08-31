@@ -43,6 +43,7 @@
 
 - 경기도 자율주행센터: 빅데이터를 활용한 AI 모델 경진대회 1회 은상
 - Kyung-Hee University 2023 추계 학술제 장려상
+- 2024 고용노동 공공데이터 활용 공모전 장려상
   
 ---
 ### Research Experience 🔍
