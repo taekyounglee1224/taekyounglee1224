@@ -26,6 +26,7 @@
 - 코로나 팬데믹이 국내 경제시장에 미치는 영향 - COVID-19 외생변수와 국내 ETF 가격 변동 추이 (24.03 ~ ) <a href = "https://github.com/taekyounglee1224/Finance-Project">View!</a>
 - 시계열 분석과 강화학습을 이용한 국내 주식 트레이딩 (24.03 ~ 24.06) <a href = "https://github.com/skier-song9/bitamin1213_trading">View!</a>
 - ADA Term Project: 머신러닝을 이용한 건강검진 데이터 수치 관계 분석 (24.05) <a href = "https://github.com/taekyounglee1224/KHU_IE_SWCON/tree/main/ADA%20(SWCON372)/Term%20Project">View!</a>
+- 탄소배출권 거래가 예측을 통한 지속 가능한 미래 구축 (24.07 ~ 24.08) <a href = "https://github.com/taekyounglee1224/bitamin_12_conf">View!</a>
 ---
 ### Self - Studies 💻
 
