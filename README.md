@@ -28,7 +28,7 @@
 - ADA Term Project: 머신러닝을 이용한 건강검진 데이터 수치 관계 분석 (24.05) <a href = "https://github.com/taekyounglee1224/KHU_IE_SWCON/tree/main/ADA%20(SWCON372)/Term%20Project">View!</a>
 - 탄소배출권 거래가 예측을 통한 지속 가능한 미래 구축 (24.07 ~ 24.08) <a href = "https://github.com/taekyounglee1224/bitamin_12_conf">View!</a>
 - 생성형 AI를 활용한 미국 ETF 투자 서비스 제안 (24.09 ~ 24.11)
-- 버티포트 입지 선정 최적화 (24.09 ~ 24.12) 
+- 버티포트 입지 선정 최적화 (24.09 ~ 24.12) <a href = "https://github.com/taekyounglee1224/Data_Capstone">View!</a>
 
 ---
 ### Self - Studies 💻
