@@ -27,6 +27,9 @@
 - 시계열 분석과 강화학습을 이용한 국내 주식 트레이딩 (24.03 ~ 24.06) <a href = "https://github.com/skier-song9/bitamin1213_trading">View!</a>
 - ADA Term Project: 머신러닝을 이용한 건강검진 데이터 수치 관계 분석 (24.05) <a href = "https://github.com/taekyounglee1224/KHU_IE_SWCON/tree/main/ADA%20(SWCON372)/Term%20Project">View!</a>
 - 탄소배출권 거래가 예측을 통한 지속 가능한 미래 구축 (24.07 ~ 24.08) <a href = "https://github.com/taekyounglee1224/bitamin_12_conf">View!</a>
+- 생성형 AI를 활용한 미국 ETF 투자 서비스 제안 (24.09 ~ 24.11)
+- 버티포트 입지 선정 최적화 (24.09 ~ 24.12) 
+
 ---
 ### Self - Studies 💻
 
@@ -42,9 +45,10 @@
 ---
 ### Awards 🏆
 
-- 경기도 자율주행센터: 빅데이터를 활용한 AI 모델 경진대회 1회 은상
-- Kyung-Hee University 2023 추계 학술제 장려상
-- 2024 고용노동 공공데이터 활용 공모전 장려상
+- 경기도 자율주행센터: 빅데이터를 활용한 AI 모델 경진대회 1회 은상 (2nd Place)
+- Kyung-Hee University 2023 추계 학술제 장려상 (3rd Place)
+- 2024 고용노동 공공데이터 활용 공모전 장려상 (4th Place)
+- NH 투자증권 빅데이터 경진대회 장려상 (4th Place)
   
 ---
 ### Research Experience 🔍
