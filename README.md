@@ -137,12 +137,11 @@
 
 ### Self - Studies 💻
 
-- C++ 객체지향 프로그래밍(CSE103) LAB 실습 <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/OOP%20(CSE103)/Lab%20Excercises">View!</a>
-- 기계학습(SWCON253) LAB 실습 <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/Machine%20Learning%20(SWCON253)">View!</a>
-- BITAmin 머신러닝 학습 <a href = "https://github.com/taekyounglee1224/Bitamin">View!</a>
-- 추천시스템 기초 실습(도서: Python을 활용한 개인화 추천시스템) <a href = "https://github.com/taekyounglee1224/Personalized-Recommendation-System-using-Python/tree/main/codes">View!</a>
-- 자료구조 및 알고리즘 학습 <a href = "https://github.com/taekyounglee1224/DS_ALGO">View!</a>
-- PyTorch 딥러닝 학습 <a href = "https://github.com/taekyounglee1224/Pytorch_DL">View!</a>
+- ML Studies <a href = "https://github.com/taekyounglee1224/Bitamin">View!</a>
+- PyTorch DL Studies <a href = "https://github.com/taekyounglee1224/Pytorch_DL">View!</a>
+- Python Recommendation System <a href = "https://github.com/taekyounglee1224/Personalized-Recommendation-System-using-Python/tree/main/codes">View!</a>
+- Data Structure & Algorithm <a href = "https://github.com/taekyounglee1224/DS_ALGO">View!</a>
+- C++ OOP <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/OOP%20(CSE103)/Lab%20Excercises">View!</a>
 
 
 ---
