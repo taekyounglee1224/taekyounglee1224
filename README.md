@@ -145,16 +145,11 @@
 - Deciphering the Impact of COVID-19 on Korean Sector ETFs: An ARIMAX and Granger Causality Approach (25.01)
 
 
-  
 ---
-### Research Experience 🔍
+### Extracurricluar Activites & Internships 📝
 
-- Kyung-Hee University AIMS LAB Undergraduate Researcher: Reinforcement Learning (24.01 ~ 24.12)
-
----
-### Work Experience 📝
-
-- BITAmin(Big Data Club) Academy 12th Generation (23.08 ~ 24.06) 
+- BITAmin(Big Data Club) Academy 12th Generation (23.08 ~ 24.06)
+- Kyung-Hee University AIMS LAB Undergraduate Researcher (24.01 ~ 24.12)
 
 
   
