@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td>24.03 ~ 24.12</td>
-      <td>Impact of the Coronavirus Pandemic on Domestic Economic Markets - COVID-19 Exogenous Variables and Domestic ETF Price Changes></td>
+      <td>Impact of the Coronavirus Pandemic on Domestic Economic Markets - COVID-19 Exogenous Variables and Domestic ETF Price Changes</td>
       <td><a href="https://github.com/taekyounglee1224/Finance-Project">View!</a></td>
       <td></td>
       <td>International Review of Financial Analysis</td>
@@ -75,7 +75,7 @@
       <td>24.07 ~ 24.08</td>
       <td>Building a Sustainable Future with Predictive Carbon Trading</td>
       <td><a href="https://github.com/taekyounglee1224/bitamin_12_conf">View!</a></td>
-      <td><a href="https://taekyounglee1224.tistory.com/68"></a></td>
+      <td><a href="https://taekyounglee1224.tistory.com/68">Link!</a></td>
       <td></td>
     </tr>
     <tr>
