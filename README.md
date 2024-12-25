@@ -22,7 +22,7 @@
   <thead>
     <tr>
       <th style="width: 300px;">Date</th>
-      <th>Project Name(En)</th>
+      <th>Project Name</th>
       <th>Github Link</th>
       <th>Tistory Link</th>
       <th>Paper</th>
