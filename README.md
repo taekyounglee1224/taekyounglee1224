@@ -47,7 +47,7 @@
       <td>24.09 ~ 24.11</td>
       <td>생성형 AI를 활용한 미국 ETF 투자 서비스 제안 - 공포탐욕지수를 기반으로</td>
       <td>US ETF Investment Service using Generative AI - Based on the Fear and Greed Index</td>
-      <td>N/A</td>
+      <td><a href = "https://github.com/taekyounglee1224/Fear-Greed-Investment">View!</a></td>
       <td></td>
     </tr>
     <tr>
@@ -103,8 +103,6 @@
 - C++ 객체지향 프로그래밍(CSE103) LAB 실습 (23.03 ~ 23.06) <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/OOP%20(CSE103)/Lab%20Excercises">View!</a>
 - 기계학습(SWCON253) LAB 실습 (23.09 ~ 23.12) <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/Machine%20Learning%20(SWCON253)">View!</a>
 - BITAmin 머신러닝 학습 (23.09 ~ 24.01) <a href = "https://github.com/taekyounglee1224/Bitamin">View!</a>
-- 강화학습 알고리즘 구현 (24.02 ~ ) <a href = "https://github.com/taekyounglee1224/Reinforcement-Learning/tree/main/Algorithms">View!</a>
-- 경영과학 예제 실습 (24.03 ~ 24.06) <a href = "https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/Operations%20Research%20(IE301)">View!</a>
 - 추천시스템 기초 실습(도서: Python을 활용한 개인화 추천시스템) (24.05) <a href = "https://github.com/taekyounglee1224/Personalized-Recommendation-System-using-Python/tree/main/codes">View!</a>
 - 자료구조 및 알고리즘 학습 (24.07 ~ ) <a href = "https://github.com/taekyounglee1224/DS_ALGO">View!</a>
 - PyTorch 딥러닝 학습 (24.07 ~ ) <a href = "https://github.com/taekyounglee1224/Pytorch_DL">View!</a>
