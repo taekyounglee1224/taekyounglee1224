@@ -125,6 +125,11 @@
       <td style="padding: 8px;">NH Investment Securities Big Data Competition</td>
       <td style="padding: 8px;">4th Place 🎖</td>
     </tr>
+    <tr>
+      <td style="padding: 8px;">2024.07</td>
+      <td style="padding: 8px;">Kyung Hee University 2023 Fall Academic Conference</td>
+      <td style="padding: 8px;">3rd Place 🥉</td>
+    </tr>
   </tbody>
 </table>
 
