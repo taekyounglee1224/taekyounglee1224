@@ -111,14 +111,14 @@
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;">2023.12</td>
-      <td style="padding: 8px;">Gyung-Gi Autonomous Driving Center: AI Model Contest using Big Data</td>
-      <td style="padding: 8px;">2nd Place 🥈</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;">2024.07</td>
       <td style="padding: 8px;">2024 Employment and Labor Open Data Use Competition</td>
       <td style="padding: 8px;">3rd Place 🥉</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">2023.12</td>
+      <td style="padding: 8px;">Gyung-Gi Autonomous Driving Center: AI Model Contest using Big Data</td>
+      <td style="padding: 8px;">2nd Place 🥈</td>
     </tr>
     <tr>
       <td style="padding: 8px;">2024.12</td>
