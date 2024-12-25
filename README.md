@@ -115,6 +115,34 @@
 - 2024 고용노동 공공데이터 활용 공모전 장려상 (4th Place)
 - NH 투자증권 빅데이터 경진대회 장려상 (4th Place)
 
+  <table style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead>
+    <tr style="border-bottom: 2px solid #ddd;">
+      <th style="width: 300px; padding: 8px;">Date</th>
+      <th style="padding: 8px;">Award Name</th>
+      <th style="padding: 8px;">Ranking</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">2023.12</td>
+      <td style="padding: 8px;">Gyung-Gi Autonomous Driving Center: AI Model Contest using Big Data</td>
+      <td style="padding: 8px;">2nd Place 🥈</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">2024.07</td>
+      <td style="padding: 8px;">2024 Employment and Labor Open Data Use Competition</td>
+      <td style="padding: 8px;">3rd Place 🥉</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">2024.12</td>
+      <td style="padding: 8px;">NH Investment Securities Big Data Competition</td>
+      <td style="padding: 8px;">4th Place 🎖</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ---
 ### Papers 📄
 - Deciphering the Impact of COVID-19 on Korean Sector ETFs: An ARIMAX and Granger Causality Approach (25.01)
