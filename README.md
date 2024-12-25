@@ -21,7 +21,7 @@
 <table>
   <thead>
     <tr>
-      <th>Date</th>
+      <th style="width: 150px;">Date</th>
       <th>Project Name(KR)</th>
       <th>Project Name(En)</th>
       <th>Github Link</th>
