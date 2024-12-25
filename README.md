@@ -41,7 +41,7 @@
       <td>코로나 팬데믹이 국내 경제시장에 미치는 영향 - COVID-19 외생변수와 국내 ETF 가격 변동 추이</td>
       <td>Impact of the Coronavirus Pandemic on Domestic Economic Markets - COVID-19 Exogenous Variables and Domestic ETF Price Changes></td>
       <td><a href="https://github.com/taekyounglee1224/Finance-Project">View!</a></td>
-      <td></td>
+      <td>International Review of Financial Analysis</td>
     </tr>
     <tr>
       <td>24.09 ~ 24.11</td>
