@@ -49,17 +49,23 @@
 - Kyung-Hee University 2023 추계 학술제 장려상 (3rd Place)
 - 2024 고용노동 공공데이터 활용 공모전 장려상 (4th Place)
 - NH 투자증권 빅데이터 경진대회 장려상 (4th Place)
+
+---
+### Papers
+- Deciphering the Impact of COVID-19 on Korean Sector ETFs: An ARIMAX and Granger Causality Approach (25.01)
+
+
   
 ---
 ### Research Experience 🔍
 
-- Kyung-Hee University AIMS LAB Undergraduate Researcher: Reinforcement Learning (24.01 ~)
+- Kyung-Hee University AIMS LAB Undergraduate Researcher: Reinforcement Learning (24.01 ~ 24.12)
 
 ---
 ### Work Experience 📝
 
-- BITAmin Academy 12th Generation (23.08 ~ 24.06) 
-- Kyung-Hee University AIMS LAB UnderGraduate Researcher (24.01 ~ )
+- BITAmin(Big Data Club) Academy 12th Generation (23.08 ~ 24.06) 
+
 
   
 <!--
