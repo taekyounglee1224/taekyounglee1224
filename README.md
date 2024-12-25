@@ -126,7 +126,7 @@
       <td style="padding: 8px;">4th Place 🎖</td>
     </tr>
     <tr>
-      <td style="padding: 8px;">2024.07</td>
+      <td style="padding: 8px;">2023.12</td>
       <td style="padding: 8px;">Kyung Hee University 2023 Fall Academic Conference</td>
       <td style="padding: 8px;">3rd Place 🥉</td>
     </tr>
