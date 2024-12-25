@@ -23,6 +23,7 @@
     <tr>
       <th>날짜</th>
       <th>프로젝트명</th>
+      <th>논문</th>
       <th>링크</th>
     </tr>
   </thead>
