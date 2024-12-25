@@ -110,11 +110,6 @@
 ---
 ### Awards 🏆
 
-- 경기도 자율주행센터: 빅데이터를 활용한 AI 모델 경진대회 1회 은상 (2nd Place)
-- Kyung-Hee University 2023 추계 학술제 장려상 (3rd Place)
-- 2024 고용노동 공공데이터 활용 공모전 장려상 (4th Place)
-- NH 투자증권 빅데이터 경진대회 장려상 (4th Place)
-
   <table style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
     <tr style="border-bottom: 2px solid #ddd;">
