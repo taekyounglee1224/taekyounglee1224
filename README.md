@@ -51,7 +51,7 @@
 - NH 투자증권 빅데이터 경진대회 장려상 (4th Place)
 
 ---
-### Papers
+### Papers 📄
 - Deciphering the Impact of COVID-19 on Korean Sector ETFs: An ARIMAX and Granger Causality Approach (25.01)
 
 
