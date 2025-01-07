@@ -46,7 +46,7 @@
     <tr>
       <td>25.01</td>
       <td>Measuring Spillover Effects between Global Indexes : Do Graph Models Perform Better?</td>
-      <td></td>
+      <td><a href="https://github.com/taekyounglee1224/GCN_Spillover">View!</a></td>
       <td></td>
       <td></td>
     </tr>
