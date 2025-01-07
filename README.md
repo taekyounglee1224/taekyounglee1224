@@ -30,13 +30,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>24.01 ~ 24.02</td>
-      <td>Netflix Price Prediction using News Topics Sentiment Analysis</td>
-      <td><a href = "https://github.com/skier-song9/bitamin_winter_proj">View!</a></td>
-      <td><a href = "https://taekyounglee1224.tistory.com/21">Link!</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>24.03 ~ 24.12</td>
       <td>Impact of the Coronavirus Pandemic on Domestic Economic Markets - COVID-19 Exogenous Variables and Domestic ETF Price Changes</td>
       <td><a href="https://github.com/taekyounglee1224/Finance-Project">View!</a></td>
@@ -48,6 +41,20 @@
       <td>US ETF Investment Service using Generative AI - Based on the Fear and Greed Index</td>
       <td><a href = "https://github.com/taekyounglee1224/Fear-Greed-Investment">View!</a></td>
       <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25.01</td>
+      <td>Measuring Spillover Effects between Global Indexes : Do Graph Models Perform Better?</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>24.01 ~ 24.02</td>
+      <td>Netflix Price Prediction using News Topics Sentiment Analysis</td>
+      <td><a href = "https://github.com/skier-song9/bitamin_winter_proj">View!</a></td>
+      <td><a href = "https://taekyounglee1224.tistory.com/21">Link!</a></td>
       <td></td>
     </tr>
     <tr>
