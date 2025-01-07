@@ -40,7 +40,7 @@
       <td>24.03 ~ 24.12</td>
       <td>Impact of the Coronavirus Pandemic on Domestic Economic Markets - COVID-19 Exogenous Variables and Domestic ETF Price Changes</td>
       <td><a href="https://github.com/taekyounglee1224/Finance-Project">View!</a></td>
-      <td></td>
+      <td><a href="https://taekyounglee1224.tistory.com/78">Link!</a></td>
       <td>International Review of Financial Analysis</td>
     </tr>
     <tr>
