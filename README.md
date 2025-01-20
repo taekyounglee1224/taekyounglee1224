@@ -154,6 +154,8 @@
 ---
 ### Papers 📄
 - Deciphering the Impact of COVID-19 on Korean Sector ETFs: An ARIMAX and Granger Causality Approach (25.01)
+- Exploring the Potential of Graph Models for Improving Financial Return Predictions with Intrinsic Data Features (25.01)
+
 
 
 ---
@@ -161,6 +163,7 @@
 
 - BITAmin(Big Data Club) Academy 12th Generation (23.08 ~ 24.06)
 - Kyung-Hee University AIMS LAB Undergraduate Researcher (24.01 ~ 24.12)
+- Korea Advanced Institue of Science and Technology(KAIST) FE Lab Internship (25.01 ~ 25.02)
 
 
   
