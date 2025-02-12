@@ -40,7 +40,7 @@
       <td>24.09 ~ 24.11</td>
       <td>US ETF Investment Service using Generative AI - Based on the Fear and Greed Index</td>
       <td><a href = "https://github.com/taekyounglee1224/Fear-Greed-Investment">View!</a></td>
-      <td></td>
+      <td><a href = "https://taekyounglee1224.tistory.com/79">Link!</a></td>
       <td></td>
     </tr>
     <tr>
