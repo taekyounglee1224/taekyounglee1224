@@ -53,7 +53,7 @@
     <tr>
       <td>25.01 ~ 25.02</td>
       <td>Covariance Matrix Denoising using Stochastic Diffusion Methods</td>
-      <td><a href="https://github.com/taekyounglee1224/GCN_Spillover">View!</a></td>
+      <td><a href="https://github.com/taekyounglee1224/Covarince-Matrix-Denoising">View!</a></td>
       <td></td>
       <td></td>
     </tr>
