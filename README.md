@@ -51,6 +51,13 @@
       <td></td>
     </tr>
     <tr>
+      <td>25.01 ~ 25.02</td>
+      <td>Covariance Matrix Denoising using Stochastic Diffusion Methods</td>
+      <td><a href="https://github.com/taekyounglee1224/GCN_Spillover">View!</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>24.01 ~ 24.02</td>
       <td>Netflix Price Prediction using News Topics Sentiment Analysis</td>
       <td><a href = "https://github.com/skier-song9/bitamin_winter_proj">View!</a></td>
