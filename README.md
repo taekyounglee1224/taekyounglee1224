@@ -58,6 +58,12 @@
       <td></td>
     </tr>
     <tr>
+      <td>25.03 ~ 25.06</td>
+      <td>Cluster-Driven Portfolio Optimization via Financial Statement Data</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>24.01 ~ 24.02</td>
       <td>Netflix Price Prediction using News Topics Sentiment Analysis</td>
       <td><a href = "https://github.com/skier-song9/bitamin_winter_proj">View!</a></td>
