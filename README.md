@@ -100,6 +100,13 @@
       <td></td>
     </tr>
     <tr>
+      <td>25.05</td>
+      <td>Web Page - Smart Irrigation System for Open-Field Agriculture</td>
+      <td><a href="https://github.com/taekyounglee1224/KHUTHON_2025">View!</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>24.05</td>
       <td>Analyzing Numerical Relationships in Health Screening with ML</td>
       <td><a href="https://github.com/taekyounglee1224/KHU_IE_SWCON/tree/main/ADA%20(SWCON372)/Term%20Project">View!</a></td>
