@@ -31,10 +31,10 @@
   <tbody>
     <tr>
       <td>24.03 ~ 24.12</td>
-      <td>Impact of the Coronavirus Pandemic on Domestic Economic Markets - COVID-19 Exogenous Variables and Domestic ETF Price Changes</td>
+      <td>Deciphering the Impact of COVID-19 on Korean Sector ETFs: Insights from an ARIMAX and Granger Causality</td>
       <td><a href="https://github.com/taekyounglee1224/Finance-Project">View!</a></td>
       <td><a href="https://taekyounglee1224.tistory.com/78">Link!</a></td>
-      <td>International Review of Financial Analysis</td>
+      <td>Systems - MDPI</td>
     </tr>
     <tr>
       <td>24.09 ~ 24.11</td>
@@ -45,10 +45,10 @@
     </tr>
     <tr>
       <td>25.01</td>
-      <td>Measuring Spillover Effects between Global Indexes : Do Graph Models Perform Better?</td>
+      <td>Graph Neural Approaches for Data-Efficient Return Prediction in International Financial Market Indices</td>
       <td><a href="https://github.com/taekyounglee1224/GCN_Spillover">View!</a></td>
       <td><a href="https://taekyounglee1224.tistory.com/80">Link!</a></td>
-      <td></td>
+      <td>Symmetry - MDPI</td>
     </tr>
     <tr>
       <td>25.01 ~ 25.02</td>
