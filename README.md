@@ -10,9 +10,8 @@
 
 ### Interests ❓
 
-- Linear Algebra, Statistics, Optimization Theory
-- Financial Engineering, Financial Data Analysis, Data Science, Quant
-- Machine Learning, Deep Learning, Reinforcement Learning, Time Series Analysis
+- Financial Engineering, Financial Data Analysis, Quantative Investments
+- Machine Learning,  Statistics, Optimization Theory 
 
 ---
 
