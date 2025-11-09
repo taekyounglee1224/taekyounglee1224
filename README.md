@@ -10,7 +10,7 @@
 
 ### Interests ❓
 
-- Financial Engineering, Portforlio Optimization,Quantative Investments, Financial Data Analysis, Finance AI
+- Financial Engineering, Portforlio Optimization, Quantative Investments, Financial Data Analysis, Finance AI
 
 ---
 
