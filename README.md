@@ -10,8 +10,7 @@
 
 ### Interests ❓
 
-- Financial Engineering, Financial Data Analysis, Quantative Investments
-- Machine Learning,  Statistics, Optimization Theory 
+- Financial Engineering, Portforlio Optimization,Quantative Investments, Financial Data Analysis, Finance AI
 
 ---
 
