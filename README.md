@@ -5,7 +5,7 @@
 - Email: leetk1224@khu.ac.kr, leetk1224@naver.com, leetk011224@gmail.com
 - Tel : 010-7272-0913
 - B.S. in Industrial Management Systems Engineering and Software Convergence, Kyung Hee University (22.03 ~ 26.02)
-- Other Website: https://taekyounglee1224.tistory.com/
+- Other Website: Tae Kyoung's Study Blog <a href = "https://taekyounglee1224.tistory.com/">View!</a>
 
 ---
 
