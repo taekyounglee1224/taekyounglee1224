@@ -51,7 +51,7 @@
     <tr>
       <td>25.09 ~ 25.12</td>
       <td>LLM-driven Dynamic Risk Budgeting Strategy for Portfolio Investing</td>
-      <td><a href="https://github.com/taekyounglee1224/GCN_Spillover">View!</a></td>
+      <td><a href="https://github.com/LimSoYeong/Trade-Tracker">View!</a></td>
       <td></a></td>
       <td></td>
     </tr>
