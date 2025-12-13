@@ -177,8 +177,8 @@
 ### Self - Studies 💻
 
 - Linear Algebra <a href = "https://taekyounglee1224.tistory.com/category/%EC%88%98%ED%95%99/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98">View!</a>
-- ML Studies <a href = "https://github.com/taekyounglee1224/Bitamin">View!</a>
-- PyTorch DL Studies <a href = "https://github.com/taekyounglee1224/Pytorch_DL">View!</a>
+- Machine Learning <a href = "https://github.com/taekyounglee1224/Bitamin">View!</a>
+- PyTorch Deep Learning <a href = "https://github.com/taekyounglee1224/Pytorch_DL">View!</a>
 - Data Structure & Algorithm <a href = "https://github.com/taekyounglee1224/DS_ALGO">View!</a>
 
 
