@@ -176,7 +176,7 @@
 
 ### Self - Studies 💻
 
-- Quant <a href = "https://taekyounglee1224.tistory.com/category/%EA%B8%88%EC%9C%B5%E2%80%A2%EA%B2%BD%EC%A0%9C/%ED%80%80%ED%8A%B8">View!</a>
+- Quant-Finance <a href = "https://taekyounglee1224.tistory.com/category/%EA%B8%88%EC%9C%B5%E2%80%A2%EA%B2%BD%EC%A0%9C/%ED%80%80%ED%8A%B8">View!</a>
 - Linear Algebra <a href = "https://taekyounglee1224.tistory.com/category/%EC%88%98%ED%95%99/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98">View!</a>
 - Machine Learning <a href = "https://github.com/taekyounglee1224/Bitamin">View!</a>
 - PyTorch Deep Learning <a href = "https://github.com/taekyounglee1224/Pytorch_DL">View!</a>
