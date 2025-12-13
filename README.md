@@ -145,6 +145,11 @@
   </thead>
   <tbody>
     <tr>
+      <td style="padding: 8px;">2025.12</td>
+      <td style="padding: 8px;">Kyung Hee University 2025 Fall Academic Conference</td>
+      <td style="padding: 8px;">2nd Place 🥈</td>
+    </tr>
+    <tr>
       <td style="padding: 8px;">2024.12</td>
       <td style="padding: 8px;">NH Investment Securities Big Data Competition</td>
       <td style="padding: 8px;">4th Place 🎖</td>
@@ -163,11 +168,6 @@
       <td style="padding: 8px;">2023.12</td>
       <td style="padding: 8px;">Kyung Hee University 2023 Fall Academic Conference</td>
       <td style="padding: 8px;">3rd Place 🥉</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">2025.12</td>
-      <td style="padding: 8px;">Kyung Hee University 2025 Fall Academic Conference</td>
-      <td style="padding: 8px;">2nd Place 🥈</td>
     </tr>
   </tbody>
 </table>
