@@ -9,7 +9,7 @@
 
 ---
 
-### Interests ❓
+### Research Interests ❓
 
 - Financial Engineering, Portforlio Optimization, Asset Allocation, Quantitative Modeling, Financial Data Analysis, AI in Finance
 
