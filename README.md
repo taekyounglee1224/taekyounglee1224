@@ -2,15 +2,16 @@
 
 - Name: Tae Kyoung Lee
 - Born in : 24th December, 2001
-- My Address: leetk1224@naver.com, leetk011224@gmail.com, leetk1224@khu.ac.kr
-- Undergraduate Student in Kyung-Hee University, Major on IE and SWCON (22.03 ~)
+- Email: leetk1224@khu.ac.kr, leetk1224@naver.com, leetk011224@gmail.com
+- Tel : 010-7272-0913
+- Degree : BS. on Industrial Management Systems Engineering and Software Convergence (22.03 ~ 26.02)
 - Other Website: https://taekyounglee1224.tistory.com/
 
 ---
 
 ### Interests ❓
 
-- Financial Engineering, Portforlio Optimization, Quantative Investments, Financial Data Analysis, Finance AI
+- Financial Engineering, Portforlio Optimization, Asset Allocation, Quantitative Modeling, Financial Data Analysis, AI in Finance
 
 ---
 
