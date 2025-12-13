@@ -164,6 +164,11 @@
       <td style="padding: 8px;">Kyung Hee University 2023 Fall Academic Conference</td>
       <td style="padding: 8px;">3rd Place 🥉</td>
     </tr>
+    <tr>
+      <td style="padding: 8px;">2025.12</td>
+      <td style="padding: 8px;">Kyung Hee University 2025 Fall Academic Conference</td>
+      <td style="padding: 8px;">2nd Place 🥈</td>
+    </tr>
   </tbody>
 </table>
 
@@ -188,9 +193,10 @@
 ---
 ### Extracurricluar Activites & Internships 📝
 
+- Korea Advanced Institue of Science and Technology(KAIST) FE Lab Internship (25.01 ~ 25.02)
 - BITAmin(Big Data Club) Academy 12th Generation (23.08 ~ 24.06)
 - Kyung-Hee University AIMS LAB Undergraduate Researcher (24.01 ~ 24.12)
-- Korea Advanced Institue of Science and Technology(KAIST) FE Lab Internship (25.01 ~ 25.02)
+
 
 
   
