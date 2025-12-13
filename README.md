@@ -4,7 +4,7 @@
 - Born in : 24th December, 2001
 - Email: leetk1224@khu.ac.kr, leetk1224@naver.com, leetk011224@gmail.com
 - Tel : 010-7272-0913
-- Degree : BS. on Industrial Management Systems Engineering and Software Convergence (22.03 ~ 26.02)
+- Degree : BS. on Industrial Management Systems Engineering and Software Convergence, Kyung-Hee Univ. (22.03 ~ 26.02)
 - Other Website: https://taekyounglee1224.tistory.com/
 
 ---
