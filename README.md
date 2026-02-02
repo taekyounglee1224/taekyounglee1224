@@ -37,7 +37,7 @@
       <td>Deciphering the Impact of COVID-19 on Korean Sector ETFs: Insights from an ARIMAX and Granger Causality</td>
       <td><a href="https://github.com/taekyounglee1224/Finance-Project">View!</a></td>
       <td><a href="https://taekyounglee1224.tistory.com/78">Link!</a></td>
-      <td>Systems - MDPI</td>
+      <td><a href="https://www.mdpi.com/2079-8954/13/8/678">Link!</a></td>
     </tr>
     <tr>
       <td>24.09 ~ 24.11</td>
@@ -51,7 +51,7 @@
       <td>Graph Neural Approaches for Data-Efficient Return Prediction in International Financial Market Indices</td>
       <td><a href="https://github.com/taekyounglee1224/GCN_Spillover">View!</a></td>
       <td><a href="https://taekyounglee1224.tistory.com/80">Link!</a></td>
-      <td>Symmetry - MDPI</td>
+      <td><a href="https://www.mdpi.com/2073-8994/17/9/1372">Link!</a></td>
     </tr>
     <tr>
       <td>25.09 ~ 25.12</td>
