@@ -1,6 +1,6 @@
 ### About Me 👋
 
-- Name: Tae Kyoung Lee
+- Name: Taekyoung Lee
 - Born in : 24th December, 2001
 - Email: leetk1224@khu.ac.kr, leetk1224@korea.ac.kr, leetk1224@naver.com, leetk011224@gmail.com
 - Tel : 010-7272-0913
@@ -12,10 +12,8 @@
 
 ### Research Interests ❓
 
-- Financial Engineering
 - Portforlio Optimization
-- Asset Allocation
-- Quantitative Investments
+- Quantitative Finance
 - AI in Finance
 
 ---
