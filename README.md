@@ -15,6 +15,7 @@
 - Portforlio Optimization
 - Quantitative Finance
 - AI in Finance
+- Financial Market Modeling
 
 ---
 
