@@ -2,7 +2,7 @@
 
 - Name: Taekyoung Lee
 - Born in : 24th December, 2001
-- Email: leetk1224@khu.ac.kr, leetk1224@korea.ac.kr, leetk1224@naver.com, leetk011224@gmail.com
+- Email: leetk1224@korea.ac.kr, leetk011224@gmail.com
 - Tel : 010-7272-0913
 - B.S. in Industrial Management Engineering & Software Convergence, Kyung Hee University (22.03 ~ 26.02)
 - M.S. in Graduate School of Management of Technology, Korea University (26.03 ~ )
@@ -19,7 +19,7 @@
 
 ---
 
-### Projects 📘
+### Papers 📘
 
 <table>
   <thead>
@@ -38,13 +38,6 @@
       <td><a href="https://github.com/taekyounglee1224/Finance-Project">View!</a></td>
       <td><a href="https://taekyounglee1224.tistory.com/78">Link!</a></td>
       <td><a href="https://www.mdpi.com/2079-8954/13/8/678">Link!</a></td>
-    </tr>
-    <tr>
-      <td>24.09 ~ 24.11</td>
-      <td>US ETF Investment Service using Generative AI - Based on the Fear and Greed Index</td>
-      <td><a href = "https://github.com/taekyounglee1224/Fear-Greed-Investment">View!</a></td>
-      <td><a href = "https://taekyounglee1224.tistory.com/79">Link!</a></td>
-      <td></td>
     </tr>
     <tr>
       <td>25.01</td>
@@ -72,6 +65,30 @@
       <td>Cluster-Driven Portfolio Optimization via Financial Statement Data</td>
       <td><a href = "https://github.com/susungpark/SW-Capstone-Design">View!</a></td>
       <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Projects 📘
+
+<table>
+  <thead>
+    <tr>
+      <th style="width: 300px;">Date</th>
+      <th>Project Name</th>
+      <th>Github Link</th>
+      <th>Blog Link</th>
+      <th>Paper</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>24.09 ~ 24.11</td>
+      <td>US ETF Investment Service using Generative AI - Based on the Fear and Greed Index</td>
+      <td><a href = "https://github.com/taekyounglee1224/Fear-Greed-Investment">View!</a></td>
+      <td><a href = "https://taekyounglee1224.tistory.com/79">Link!</a></td>
       <td></td>
     </tr>
     <tr>
