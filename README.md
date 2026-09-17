@@ -19,7 +19,7 @@
 
 ---
 
-### Papers 📘
+### Papers 📄
 
 <table>
   <thead>
@@ -192,13 +192,6 @@
 - Machine Learning <a href = "https://github.com/taekyounglee1224/Bitamin">View!</a>
 - PyTorch Deep Learning <a href = "https://github.com/taekyounglee1224/Pytorch_DL">View!</a>
 - Data Structure & Algorithm <a href = "https://github.com/taekyounglee1224/DS_ALGO">View!</a>
-
-
----
-### Papers 📄
-- Deciphering the Impact of COVID-19 on Korean Sector ETFs: An ARIMAX and Granger Causality Approach (25.01) <a href = "https://www.mdpi.com/2079-8954/13/8/678">View!</a>
-- Exploring the Potential of Graph Models for Improving Financial Return Predictions with Intrinsic Data Features (25.01) <a href = "https://www.mdpi.com/2073-8994/17/9/1372">View!</a>
-
 
 
 ---
