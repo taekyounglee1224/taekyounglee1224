@@ -33,21 +33,21 @@
   </thead>
   <tbody>
     <tr>
-      <td>24.03 ~ 24.12</td>
+      <td>25.08</td>
       <td>Deciphering the Impact of COVID-19 on Korean Sector ETFs: Insights from an ARIMAX and Granger Causality</td>
       <td><a href="https://github.com/taekyounglee1224/Finance-Project">View!</a></td>
       <td><a href="https://taekyounglee1224.tistory.com/78">Link!</a></td>
       <td><a href="https://www.mdpi.com/2079-8954/13/8/678">Link!</a></td>
     </tr>
     <tr>
-      <td>25.01</td>
+      <td>25.08</td>
       <td>Graph Neural Approaches for Data-Efficient Return Prediction in International Financial Market Indices</td>
       <td><a href="https://github.com/taekyounglee1224/GCN_Spillover">View!</a></td>
       <td><a href="https://taekyounglee1224.tistory.com/80">Link!</a></td>
       <td><a href="https://www.mdpi.com/2073-8994/17/9/1372">Link!</a></td>
     </tr>
     <tr>
-      <td>25.09 ~ 25.12</td>
+      <td>26.09</td>
       <td>LLM-driven Dynamic Risk Budgeting Strategy for Portfolio Investing</td>
       <td><a href="https://github.com/LimSoYeong/Trade-Tracker">View!</a></td>
       <td></a></td>
