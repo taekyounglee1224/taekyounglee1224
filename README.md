@@ -80,7 +80,6 @@
       <th>Project Name</th>
       <th>Github Link</th>
       <th>Blog Link</th>
-      <th>Paper</th>
     </tr>
   </thead>
   <tbody>
@@ -89,34 +88,29 @@
       <td>US ETF Investment Service using Generative AI - Based on the Fear and Greed Index</td>
       <td><a href = "https://github.com/taekyounglee1224/Fear-Greed-Investment">View!</a></td>
       <td><a href = "https://taekyounglee1224.tistory.com/79">Link!</a></td>
-      <td></td>
     </tr>
     <tr>
       <td>24.01 ~ 24.02</td>
       <td>Netflix Price Prediction using News Topics Sentiment Analysis</td>
       <td><a href = "https://github.com/skier-song9/bitamin_winter_proj">View!</a></td>
       <td><a href = "https://taekyounglee1224.tistory.com/21">Link!</a></td>
-      <td></td>
     </tr>
     <tr>
       <td>24.03 ~ 24.06</td>
       <td>Trading Domestic Stocks using Time Series Analysis and Reinforcement Learning</td>
       <td><a href="https://github.com/skier-song9/bitamin1213_trading">View!</a></td>
       <td><a href="https://taekyounglee1224.tistory.com/51">Link!</a></td>
-      <td></td>
     </tr>
     <tr>
       <td>23.10 ~ 23.12</td>
       <td>CCTV Image Object Detection using Yolov5</td>
       <td><a href="https://github.com/taekyounglee1224/KyungGI-Self-Driving-Car-AI-Contest">View!</a></td>
       <td><a href="https://taekyounglee1224.tistory.com/11">Link!</a></td>
-      <td></td>
     </tr>
     <tr>
       <td>24.09 ~ 24.12</td>
       <td>Vertiport Location Optimization</td>
       <td><a href="https://github.com/taekyounglee1224/Data_Capstone">View!</a></td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -124,13 +118,11 @@
       <td>Building a Sustainable Future with Predictive Carbon Trading</td>
       <td><a href="https://github.com/taekyounglee1224/bitamin_12_conf">View!</a></td>
       <td><a href="https://taekyounglee1224.tistory.com/68">Link!</a></td>
-      <td></td>
     </tr>
     <tr>
       <td>25.05</td>
       <td>Web Page - Smart Irrigation System for Open-Field Agriculture</td>
       <td><a href="https://github.com/taekyounglee1224/KHUTHON_2025">View!</a></td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -138,13 +130,11 @@
       <td>Analyzing Numerical Relationships in Health Screening with ML</td>
       <td><a href="https://github.com/taekyounglee1224/KHU_IE_SWCON/tree/main/ADA%20(SWCON372)/Term%20Project">View!</a></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>23.11</td>
       <td>Relationship between Online Shopping Sales and Economic Indices</td>
       <td><a href="https://github.com/taekyounglee1224/KHU-School-Projects/tree/main/Web%20Python%20Programming%20(SWCON104)/Projects">View!</a></td>
-      <td></td>
       <td></td>
     </tr>
     
