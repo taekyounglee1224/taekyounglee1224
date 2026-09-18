@@ -34,8 +34,8 @@
     <tr>
       <td>26.03 ~ </td>
       <td>End-to-End Portfolio Optimization under Drawdown Constraints via Decision-Focused Learning</td>
-      <td><a href="https://github.com/taekyounglee1224/Finance-Project">View!</a></td>
-      <td><a href="https://www.mdpi.com/2079-8954/13/8/678">Link!</a></td>
+      <td><a href="https://github.com/taekyounglee1224/cvxpy-portfolio-lab">View!</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>25.08</td>
