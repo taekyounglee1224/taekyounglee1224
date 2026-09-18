@@ -27,30 +27,32 @@
       <th style="width: 300px;">Date</th>
       <th>Project Name</th>
       <th>Github Link</th>
-      <th>Blog Link</th>
       <th>Paper</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>26.03 ~ </td>
+      <td>End-to-End Portfolio Optimization under Drawdown Constraints via Decision-Focused Learning</td>
+      <td><a href="https://github.com/taekyounglee1224/Finance-Project">View!</a></td>
+      <td><a href="https://www.mdpi.com/2079-8954/13/8/678">Link!</a></td>
+    </tr>
+    <tr>
       <td>25.08</td>
       <td>Deciphering the Impact of COVID-19 on Korean Sector ETFs: Insights from an ARIMAX and Granger Causality</td>
       <td><a href="https://github.com/taekyounglee1224/Finance-Project">View!</a></td>
-      <td><a href="https://taekyounglee1224.tistory.com/78">Link!</a></td>
       <td><a href="https://www.mdpi.com/2079-8954/13/8/678">Link!</a></td>
     </tr>
     <tr>
       <td>25.08</td>
       <td>Graph Neural Approaches for Data-Efficient Return Prediction in International Financial Market Indices</td>
       <td><a href="https://github.com/taekyounglee1224/GCN_Spillover">View!</a></td>
-      <td><a href="https://taekyounglee1224.tistory.com/80">Link!</a></td>
       <td><a href="https://www.mdpi.com/2073-8994/17/9/1372">Link!</a></td>
     </tr>
     <tr>
       <td>26.09</td>
       <td>LLM-driven Dynamic Risk Budgeting Strategy for Portfolio Investing</td>
       <td><a href="https://github.com/LimSoYeong/Trade-Tracker">View!</a></td>
-      <td></a></td>
       <td></td>
     </tr>
     <tr>
@@ -64,7 +66,6 @@
       <td>25.03 ~ 25.06</td>
       <td>Cluster-Driven Portfolio Optimization via Financial Statement Data</td>
       <td><a href = "https://github.com/susungpark/SW-Capstone-Design">View!</a></td>
-      <td></td>
       <td></td>
     </tr>
   </tbody>
