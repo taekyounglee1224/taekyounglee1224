@@ -35,7 +35,7 @@
       <td>26.03 ~ </td>
       <td>End-to-End Portfolio Optimization under Drawdown Constraints via Decision-Focused Learning</td>
       <td><a href="https://github.com/taekyounglee1224/cvxpy-portfolio-lab">View!</a></td>
-      <td></td>
+      <td>Major Revision</td>
     </tr>
     <tr>
       <td>25.08</td>
@@ -53,19 +53,19 @@
       <td>26.09</td>
       <td>LLM-driven Dynamic Risk Budgeting Strategy for Portfolio Investing</td>
       <td><a href="https://github.com/LimSoYeong/Trade-Tracker">View!</a></td>
-      <td></td>
+      <td>Accepted</td>
     </tr>
     <tr>
       <td>25.01 ~ 25.02</td>
       <td>Covariance Matrix Denoising using Stochastic Differentiation Methods</td>
       <td><a href="https://github.com/taekyounglee1224/Covarince-Matrix-Denoising">View!</a></td>
-      <td></td>
+      <td>Submitted</td>
     </tr>
     <tr>
       <td>25.03 ~ 25.06</td>
       <td>Cluster-Driven Portfolio Optimization via Financial Statement Data</td>
       <td><a href = "https://github.com/susungpark/SW-Capstone-Design">View!</a></td>
-      <td></td>
+      <td>Under Review</td>
     </tr>
   </tbody>
 </table>
