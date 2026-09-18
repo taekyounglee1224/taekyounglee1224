@@ -25,9 +25,9 @@
   <thead>
     <tr>
       <th style="width: 300px;">Date</th>
-      <th>Project Name</th>
+      <th>Title of Paper</th>
       <th>Github Link</th>
-      <th>Paper</th>
+      <th>Journal</th>
     </tr>
   </thead>
   <tbody>
