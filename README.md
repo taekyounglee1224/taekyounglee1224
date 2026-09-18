@@ -60,7 +60,6 @@
       <td>Covariance Matrix Denoising using Stochastic Differentiation Methods</td>
       <td><a href="https://github.com/taekyounglee1224/Covarince-Matrix-Denoising">View!</a></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>25.03 ~ 25.06</td>
